@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="team_1"><b>Team 1</b></string>
+    <string name="one"><b>One</b></string>
+    <string name="two"><b>Two</b></string>
+    <string name="four"><b>Four</b></string>
+    <string name="six"><b>Six</b></string>
+    <string name="reset"><b>RESET</b></string>
+    <string name="team_2"><b>Team 2</b></string>
+    <string name="out"><b>OUT</b></string>
+</resources>
